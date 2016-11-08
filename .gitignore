@@ -46,3 +46,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+# Django
+*.pyc
+__pycache__
+db.sqlite3
+
+
