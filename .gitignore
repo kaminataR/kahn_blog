@@ -51,5 +51,8 @@ Temporary Items
 *.pyc
 __pycache__
 db.sqlite3
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> a28da07e1c6ee6b7baa8d8ecdf30178e2a228ee7
