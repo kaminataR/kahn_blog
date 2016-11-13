@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'kahn_blog.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'kaminata$default',
-        'HOST': 'kaminata.mysql.pythonanywhere-services.com',
+        'NAME': 'kaminata',
+        'HOST': 'localhost',
         'PORT': '3306',
         'USER': 'kaminata',
-        'PASSWORD':'12345a@A',
+        'PASSWORD':'123456',
     }
 }
 
